@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This Project allows you to block ads across many devices with the same internet connection. I used a Raspberry Pi 5, mouse, keyboard,the Pi Hole setup guide, my iPhone, and MacBook. The log shown at the end is after few hours of running. Frist enter the intall command into your Pi terminal. Once the Pi Hole is intsalled there will be a few selection popups before being completely finished. Select your DNS proivder, Blacklist, and IP protocal. After getting through all the selcetion options, you will be presented with the website and password to log in. Visit the site given to you and enjoy looking at all the sites that are being blocked!
+This Project allows you to block ads across many devices with the same internet connection. I used a Raspberry Pi 5, mouse, keyboard,the Pi Hole setup guide, my iPhone, and MacBook. The log shown at the end is after few hours of running. First enter the install command into your Pi terminal. Once the Pi Hole is installed there will be a few selection popups before it is completely finished. Select your DNS provider, Blacklist, and IP protocol. After getting through all the selection options, you will be presented with the website and password to log in. Visit the site given to you and enjoy seeing all the sites that are being blocked!
 <br />
 
 
